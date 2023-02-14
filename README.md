@@ -5,6 +5,12 @@
 各ディレクトリに章ごとの内容が入ってます
 
 ## devlopment
+create new file
+```
+cargo new [project名]
+# 以下のpathを.vscodeのsetting.jsonの"rust-analyzer.linkedProjects"に追加する
+/home/nago/rust_tutorial/[project名]/Cargo.toml
+```
 debug
 ```
 cargo run
