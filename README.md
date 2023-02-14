@@ -5,7 +5,7 @@
 各ディレクトリに章ごとの内容が入ってます
 
 ## devlopment
-実行
+debug
 ```
 cargo run
 ```
