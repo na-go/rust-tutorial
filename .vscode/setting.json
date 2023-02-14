@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "/home/nago/rust_tutorial/guessing_game_2/Cargo.toml",
+        "/home/nago/rust_tutorial/variables_3/Cargo.toml"
+    ]
+}
