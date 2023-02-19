@@ -1,4 +1,5 @@
 mod reference_and_borrowing;
+mod slice_type;
 
 fn variables_scope() {
     let s = "hello";
@@ -87,4 +88,5 @@ fn main() {
     println!("s12: {}, s12_length: {}", s12, s12_length);
     
     reference_and_borrowing::reference_and_borrowing();
+    slice_type::slice_type();
 }
